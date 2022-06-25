@@ -1,7 +1,6 @@
 # Movie Ticket Landing Page
 # Sinema Sitesi
 
-## Demo
 ![gif (1)](https://user-images.githubusercontent.com/53059811/175771119-d88a9801-1e70-40ce-91af-fabe1217d751.gif)
 
 
