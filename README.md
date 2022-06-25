@@ -1,6 +1,12 @@
 # Movie Ticket Landing Page
 # Sinema Sitesi
 
+## Demo
+![gif (1)](https://user-images.githubusercontent.com/53059811/175771119-d88a9801-1e70-40ce-91af-fabe1217d751.gif)
+
+
+## Introduction
+
 [TR]
 Bu landing page bir proje için HTML5/CSS ile hazırlanmış olup sonrasında proje iptal olmasından dolayı devamı getirilemediğinden sadece html5/css olarak kodlanmış ve ön yüzü ücretsiz bir şekilde paylaşılmıştır.
 
